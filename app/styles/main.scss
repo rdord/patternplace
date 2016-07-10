@@ -14,7 +14,7 @@ $icon-font-path: '../fonts/';
 /* Space out content a bit */
 body {
   font-family: Dosis, sans-serif;
-
+  margin: 48vh 0 58vh;
 }
 
 .container {
@@ -26,8 +26,9 @@ body {
   background-image: radial-gradient(#3c6aa3 20%, transparent 0), radial-gradient(#2b5384 20%, transparent 0);
   background-size: 30px 30px;
   background-position: 0 0, 15px 15px;
+  border: 1px solid #eee;
   display: inline-block;
-  margin: 70px 10px;
+  margin: 30px 10px 40px;
 }
 
 .img {

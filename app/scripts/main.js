@@ -1,1 +1,3 @@
-console.log('\'Allo \'Allo!');
+var bLazy = new Blazy({ 
+  offset: 0
+});

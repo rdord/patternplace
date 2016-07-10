@@ -2,7 +2,8 @@
   "name": "patternplace",
   "private": true,
   "dependencies": {
-    "bootstrap-sass": "~3.3.5"
+    "bootstrap-sass": "~3.3.5",
+    "bLazy": "blazy#^1.6.2"
   },
   "overrides": {
     "bootstrap-sass": {
