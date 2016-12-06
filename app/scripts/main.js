@@ -1,3 +1,6 @@
-var bLazy = new Blazy({ 
+/*eslint-disable no-unused-vars*/
+/*global Blazy*/
+
+var bLazy = new Blazy({
   offset: 0
 });
